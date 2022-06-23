@@ -3,7 +3,7 @@
     <title>eAkte Dokumentation</title>
     <link href="https://robinstrohmeyer.github.io/eAkteDokuTest/feed.xml" rel="self" />
     <link href="https://robinstrohmeyer.github.io/eAkteDokuTest" />
-    <updated>2022-06-23T18:15:08+02:00</updated>
+    <updated>2022-06-23T18:16:01+02:00</updated>
     <author>
         <name>eAkte Team</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://robinstrohmeyer.github.io/eAkteDokuTest/das-ist-die-eakte-anwendung.html"/>
         <id>https://robinstrohmeyer.github.io/eAkteDokuTest/das-ist-die-eakte-anwendung.html</id>
 
-        <updated>2022-06-23T18:15:08+02:00</updated>
+        <updated>2022-06-23T18:16:01+02:00</updated>
             <summary>
                 <![CDATA[
                     intuitiv bedienbar mit anpassbarem Aktenplan volle Kontrolle über Berechtigungen
@@ -30,6 +30,7 @@
 <li>mit anpassbarem Aktenplan</li>
 <li>volle Kontrolle über Berechtigungen</li>
 </ul>
+<p> </p>
             ]]>
         </content>
     </entry>
