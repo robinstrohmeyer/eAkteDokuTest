@@ -3,55 +3,22 @@
     <title>eAkte Dokumentation</title>
     <link href="https://robinstrohmeyer.github.io/eAkteDokuTest/feed.xml" rel="self" />
     <link href="https://robinstrohmeyer.github.io/eAkteDokuTest" />
-    <updated>2022-06-23T15:53:31+02:00</updated>
+    <updated>2022-06-23T16:52:01+02:00</updated>
     <author>
         <name>eAkte Team</name>
     </author>
     <id>https://robinstrohmeyer.github.io/eAkteDokuTest</id>
 
     <entry>
-        <title>Was kann ich tun</title>
+        <title>Release Note Juni</title>
         <author>
             <name>eAkte Team</name>
         </author>
-        <link href="https://robinstrohmeyer.github.io/eAkteDokuTest/was-kann-ich-tun.html"/>
-        <id>https://robinstrohmeyer.github.io/eAkteDokuTest/was-kann-ich-tun.html</id>
+        <link href="https://robinstrohmeyer.github.io/eAkteDokuTest/release-note-juni.html"/>
+        <id>https://robinstrohmeyer.github.io/eAkteDokuTest/release-note-juni.html</id>
 
-        <updated>2022-06-23T15:53:31+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Ach, so alles mögliche
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Ach, so alles mögliche</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>FAQ Eintrag</title>
-        <author>
-            <name>eAkte Team</name>
-        </author>
-        <link href="https://robinstrohmeyer.github.io/eAkteDokuTest/faq-eintrag.html"/>
-        <id>https://robinstrohmeyer.github.io/eAkteDokuTest/faq-eintrag.html</id>
-
-        <updated>2022-06-23T15:50:38+02:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Eine Frage</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Eine Frage</p>
-
-<p>Noch eine Frage</p>
-
-<p class="dropcap"> </p>
-            ]]>
-        </content>
+        <updated>2022-06-23T16:52:01+02:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>

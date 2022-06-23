@@ -10,32 +10,16 @@
     },
     "items": [
         {
-            "id": "https://robinstrohmeyer.github.io/eAkteDokuTest/was-kann-ich-tun.html",
-            "url": "https://robinstrohmeyer.github.io/eAkteDokuTest/was-kann-ich-tun.html",
-            "title": "Was kann ich tun",
-            "summary": "Ach, so alles mögliche",
-            "content_html": "<p>Ach, so alles mögliche</p>",
+            "id": "https://robinstrohmeyer.github.io/eAkteDokuTest/release-note-juni.html",
+            "url": "https://robinstrohmeyer.github.io/eAkteDokuTest/release-note-juni.html",
+            "title": "Release Note Juni",
             "author": {
                 "name": "eAkte Team"
             },
             "tags": [
             ],
-            "date_published": "2022-06-23T15:53:31+02:00",
-            "date_modified": "2022-06-23T15:53:31+02:00"
-        },
-        {
-            "id": "https://robinstrohmeyer.github.io/eAkteDokuTest/faq-eintrag.html",
-            "url": "https://robinstrohmeyer.github.io/eAkteDokuTest/faq-eintrag.html",
-            "title": "FAQ Eintrag",
-            "summary": "<p>Eine Frage</p>\n",
-            "content_html": "<p>Eine Frage</p>\n\n<p>Noch eine Frage</p>\n\n<p class=\"dropcap\"> </p>",
-            "author": {
-                "name": "eAkte Team"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-06-23T15:50:38+02:00",
-            "date_modified": "2022-06-23T15:50:38+02:00"
+            "date_published": "2022-06-23T16:52:01+02:00",
+            "date_modified": "2022-06-23T16:52:01+02:00"
         }
     ]
 }
