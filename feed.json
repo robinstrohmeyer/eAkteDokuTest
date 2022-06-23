@@ -2,16 +2,30 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "eAkte Dokumentation",
     "description": "",
-    "home_page_url": "https:// robinstrohmeyer/eAkteDokuTest",
-    "feed_url": "https:// robinstrohmeyer/eAkteDokuTest/feed.json",
+    "home_page_url": "https://robinstrohmeyer.github.io/eAkteDokuTest",
+    "feed_url": "https://robinstrohmeyer.github.io/eAkteDokuTest/feed.json",
     "user_comment": "",
     "author": {
         "name": "eAkte Team"
     },
     "items": [
         {
-            "id": "https:// robinstrohmeyer/eAkteDokuTest/faq-eintrag.html",
-            "url": "https:// robinstrohmeyer/eAkteDokuTest/faq-eintrag.html",
+            "id": "https://robinstrohmeyer.github.io/eAkteDokuTest/was-kann-ich-tun.html",
+            "url": "https://robinstrohmeyer.github.io/eAkteDokuTest/was-kann-ich-tun.html",
+            "title": "Was kann ich tun",
+            "summary": "Ach, so alles mögliche",
+            "content_html": "<p>Ach, so alles mögliche</p>",
+            "author": {
+                "name": "eAkte Team"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-23T15:53:31+02:00",
+            "date_modified": "2022-06-23T15:53:31+02:00"
+        },
+        {
+            "id": "https://robinstrohmeyer.github.io/eAkteDokuTest/faq-eintrag.html",
+            "url": "https://robinstrohmeyer.github.io/eAkteDokuTest/faq-eintrag.html",
             "title": "FAQ Eintrag",
             "summary": "<p>Eine Frage</p>\n",
             "content_html": "<p>Eine Frage</p>\n\n<p>Noch eine Frage</p>\n\n<p class=\"dropcap\"> </p>",
