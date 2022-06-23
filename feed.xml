@@ -3,10 +3,35 @@
     <title>eAkte Dokumentation</title>
     <link href="https:// robinstrohmeyer/eAkteDokuTest/feed.xml" rel="self" />
     <link href="https:// robinstrohmeyer/eAkteDokuTest" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2022-06-23T15:50:38+02:00</updated>
     <author>
         <name>eAkte Team</name>
     </author>
     <id>https:// robinstrohmeyer/eAkteDokuTest</id>
 
+    <entry>
+        <title>FAQ Eintrag</title>
+        <author>
+            <name>eAkte Team</name>
+        </author>
+        <link href="https:// robinstrohmeyer/eAkteDokuTest/faq-eintrag.html"/>
+        <id>https:// robinstrohmeyer/eAkteDokuTest/faq-eintrag.html</id>
+
+        <updated>2022-06-23T15:50:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Eine Frage</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Eine Frage</p>
+
+<p>Noch eine Frage</p>
+
+<p class="dropcap"> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
