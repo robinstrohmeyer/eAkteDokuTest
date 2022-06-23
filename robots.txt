@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://robinstrohmeyer.github.io/eAkteDokuTest/sitemap.xml
