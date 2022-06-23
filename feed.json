@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "eAkte Dokumentation",
     "description": "",
-    "home_page_url": "https:// robinstrohmeyer / eAkteDokuTest",
-    "feed_url": "https:// robinstrohmeyer / eAkteDokuTest/feed.json",
+    "home_page_url": "https:// robinstrohmeyer/eAkteDokuTest",
+    "feed_url": "https:// robinstrohmeyer/eAkteDokuTest/feed.json",
     "user_comment": "",
     "author": {
         "name": "eAkte Team"
