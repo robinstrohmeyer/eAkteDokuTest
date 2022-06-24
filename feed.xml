@@ -3,7 +3,7 @@
     <title>eAkte Dokumentation</title>
     <link href="https://robinstrohmeyer.github.io/eAkteDokuTest/feed.xml" rel="self" />
     <link href="https://robinstrohmeyer.github.io/eAkteDokuTest" />
-    <updated>2022-06-24T06:10:43+02:00</updated>
+    <updated>2022-06-24T06:11:26+02:00</updated>
     <author>
         <name>eAkte Team</name>
     </author>
@@ -36,22 +36,23 @@
         </content>
     </entry>
     <entry>
-        <title>Release Note Juni</title>
+        <title>Release Notes</title>
         <author>
             <name>eAkte Team</name>
         </author>
         <link href="https://robinstrohmeyer.github.io/eAkteDokuTest/release-note-juni.html"/>
         <id>https://robinstrohmeyer.github.io/eAkteDokuTest/release-note-juni.html</id>
 
-        <updated>2022-06-23T16:55:22+02:00</updated>
+        <updated>2022-06-24T06:11:26+02:00</updated>
             <summary>
                 <![CDATA[
-                    Das gibt's neues
+                    Juni Das gibt's neues
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Das gibt's neues</p>
+                <h1>Juni</h1>
+<p>Das gibt's neues</p>
             ]]>
         </content>
     </entry>
