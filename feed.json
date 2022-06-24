@@ -9,33 +9,5 @@
         "name": "eAkte Team"
     },
     "items": [
-        {
-            "id": "https://robinstrohmeyer.github.io/eAkteDokuTest/das-ist-die-eakte-anwendung.html",
-            "url": "https://robinstrohmeyer.github.io/eAkteDokuTest/das-ist-die-eakte-anwendung.html",
-            "title": "About",
-            "summary": "Das ist die eAkte-Anwendung intuitiv bedienbar mit anpassbarem Aktenplan volle Kontrolle über Berechtigungen",
-            "content_html": "<h1>Das ist die eAkte-Anwendung</h1>\n<ul>\n<li>intuitiv bedienbar</li>\n<li>mit anpassbarem Aktenplan</li>\n<li>volle Kontrolle über Berechtigungen</li>\n</ul>\n<p> </p>",
-            "author": {
-                "name": "eAkte Team"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-06-23T17:01:15+02:00",
-            "date_modified": "2022-06-24T06:10:43+02:00"
-        },
-        {
-            "id": "https://robinstrohmeyer.github.io/eAkteDokuTest/release-note-juni.html",
-            "url": "https://robinstrohmeyer.github.io/eAkteDokuTest/release-note-juni.html",
-            "title": "Release Notes",
-            "summary": "Juni Das gibt's neues",
-            "content_html": "<h1>Juni</h1>\n<p>Das gibt's neues</p>",
-            "author": {
-                "name": "eAkte Team"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-06-23T16:52:01+02:00",
-            "date_modified": "2022-06-24T06:11:26+02:00"
-        }
     ]
 }
